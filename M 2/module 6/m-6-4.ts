@@ -37,7 +37,7 @@ const richDeveloper : Developer<{
     AiSupport: boolean
     
 }> ={
-    name: "poorMan",
+    name: "richMan",
     salary: 30000,
     device:{
         brand: "bmw",
