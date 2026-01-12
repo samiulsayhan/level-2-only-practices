@@ -33,6 +33,8 @@ const poorDeveloper : Developer<{
 const richDeveloper : Developer<{
     heartRate: string,
     CallSupport: boolean,
+    calculator: boolean,
+    AiSupport: boolean
     
 }> ={
     name: "poorMan",
@@ -44,6 +46,8 @@ const richDeveloper : Developer<{
     },
     smartWatch:{
         heartRate:"200",
-        CallSupport:true
+        CallSupport:true,
+        calculator:true,
+        AiSupport:true
     }
 }
