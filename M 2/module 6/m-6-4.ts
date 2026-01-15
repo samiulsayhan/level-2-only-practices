@@ -53,4 +53,5 @@ const richDeveloper : Developer<{
 }
 
 
+console.log();
 
