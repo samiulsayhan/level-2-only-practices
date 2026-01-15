@@ -51,4 +51,6 @@ const richDeveloper : Developer<{
         AiSupport:true
     }
 }
-console.log(richDeveloper); //amni
+
+
+
