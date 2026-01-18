@@ -26,7 +26,7 @@ const arrObj = createArrayWithGeneric({
     
 })
 
-// watch this video if you have any confusion :- 
+// watch this video if you have any confusion :- https://app.usebubbles.com/fXc69DoYJxEi4aWKuTBQdK
 
 // tuple
 const createArrayWithTuple = (param1: string, param2:string)=> [param1,param2]
